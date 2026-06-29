@@ -1,9 +1,14 @@
 {
-  "status": true,
-  "new_version": "2.1.5",
-  "dialog_data": {
-    "title": "Update Available",
-    "download_link": "https://t.me/PremiumDialogHub",
-    "whats_new": "Brand new interface design\nEnd-to-end encryption update\nFaster media sharing\nBug fixes and stability"
-  }
+  "versionCode": 9,
+  "versionName": "5.1",
+  "apkSize": 9,
+  "enabledDark": true,
+  "forceUp": true,
+  "whatIsNew": [
+    "Performance improved and some bugs fixed.",
+    "Android 14 support",
+    "Loading speed improved",
+    "Notification display issues fixed"
+  ],
+  "apkUrl": "https://www.dropbox.com/scl/fi/34hizhwjmut91zpz7xjp7/SyriaTalkPlus_Ultra.apk?rlkey=8gr6vebbisezu1718qv0so2qe&st=ct9jk73g&dl=1"
 }
